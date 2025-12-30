@@ -1,1 +1,19 @@
-hello git and git Hub
+mkdir mahesha 
+ls
+cd mahesh
+create ropositry
+git init
+git config-list
+git config --global user.name "mahesh"
+git config --global user.emai "mahesh"
+git clone cide copy
+cd mahesh
+git status
+echo "powre star" >> lab.txt
+git add lab1.txt
+git status
+git commit -m first msg"
+git origin main
+
+
+
